@@ -120,7 +120,7 @@
     {
       "name": "Casey Mal",
       "email": "malc@seattleu.edu",
-      "student_id": "1234567",
+      "student_id": "8945024",
       "major_program": "Business",
       "class_standing": "Sophomore",
       "position": "Desk Assistant",

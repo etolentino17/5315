@@ -9,4 +9,175 @@
       <position>Assistant Area Coordinator</position>
       <residence_hall>Chardin Hall</residence_hall>
     </data>
+    <data>
+      <name>Raquel Horinagu</name>
+      <email>horinagr@seattleu.edu</email>
+      <student_id>1028993</student_id>
+      <major_program>Nursing</major_program>
+      <class_standing>Junior</class_standing>
+      <position>Desk Coordinator</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Gretchen Perrera</name>
+      <email>perrerg@seattleu.edu</email>
+      <student_id>8497384</student_id>
+      <major_program>Political Science</major_program>
+      <class_standing>Junior</class_standing>
+      <position>Desk Coordinator</position>
+      <residence_hall>Murphy Apartments</residence_hall>
+    </data>
+    <data>
+      <name>Blake Harrington</name>
+      <email>harringb@seattleu.edu</email>
+      <student_id>0296374</student_id>
+      <major_program>Mathematics</major_program>
+      <class_standing>Senior</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Murphy Apartments</residence_hall>
+    </data>
+    <data>
+      <name>Arat Cheruvu</name>
+      <email>cheruva@seattleu.edu</email>
+      <student_id>8846396</student_id>
+      <major_program>Communications</major_program>
+      <class_standing>Sophomore</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Campion Hall</residence_hall>
+    </data>
+    <data>
+      <name>Gabi See</name>
+      <email>seeg@seattleu.edu</email>
+      <student_id>8923710</student_id>
+      <major_program>Sociology</major_program>
+      <class_standing>Sophomore</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Bellarmine Hall</residence_hall>
+    </data>
+    <data>
+      <name>Joelle Neddington</name>
+      <email>neddingj@seattleu.edu</email>
+      <student_id>8846673</student_id>
+      <major_program>Communications</major_program>
+      <class_standing>Staff</class_standing>
+      <position>Area Coordinator</position>
+      <residence_hall>Murphy Apartments</residence_hall>
+    </data>
+    <data>
+      <name>Patricia Rebel</name>
+      <email>rebelp@seattleu.edu</email>
+      <student_id>3347558</student_id>
+      <major_program>Criminology</major_program>
+      <class_standing>Junior</class_standing>
+      <position>Resident Assistant</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Phao Than</name>
+      <email>thanp@seattleu.edu</email>
+      <student_id>7846536</student_id>
+      <major_program>Marketing</major_program>
+      <class_standing>Sophomore</class_standing>
+      <position>Resident Assistant</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Gia Respuesta</name>
+      <email>respueg@seattleu.edu</email>
+      <student_id>4562960</student_id>
+      <major_program>English</major_program>
+      <class_standing>Junior</class_standing>
+      <position>Resident Assistant</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Sapphire Pynch</name>
+      <email>pynchs@seattleu.edu</email>
+      <student_id>2209887</student_id>
+      <major_program>Psychology</major_program>
+      <class_standing>Sophomore</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Campion Hall</residence_hall>
+    </data>
+    <data>
+      <name>Sadie Radley</name>
+      <email>radles@seattleu.edu</email>
+      <student_id>5470986</student_id>
+      <major_program>Communications</major_program>
+      <class_standing>Senior</class_standing>
+      <position>Resident Assistant</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Javier Iglesias</name>
+      <email>iglesj4@seattleu.edu</email>
+      <student_id>6740911</student_id>
+      <major_program>Psychology</major_program>
+      <class_standing>Senior</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Xavier Hall</residence_hall>
+    </data>
+    <data>
+      <name>Casey Mal</name>
+      <email>malc@seattleu.edu</email>
+      <student_id>8945024</student_id>
+      <major_program>Business</major_program>
+      <class_standing>Sophomore</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Hunter Sedaris</name>
+      <email>sedarh@seattleu.edu</email>
+      <student_id>0908876</student_id>
+      <major_program>Computer Science</major_program>
+      <class_standing>Sophomore</class_standing>
+      <position>HOIDA</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Louisa Santos</name>
+      <email>santosl@seattleu.edu</email>
+      <student_id>4509182</student_id>
+      <major_program>Biology</major_program>
+      <class_standing>Junior</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+    <data>
+      <name>Sally Wasowzki</name>
+      <email>wasows@seattleu.edu</email>
+      <student_id>8709432</student_id>
+      <major_program>Finance</major_program>
+      <class_standing>Sophomore</class_standing>
+      <position>Desk Assistant</position>
+      <residence_hall>Murphy Apartments</residence_hall>
+    </data>
+    <data>
+      <name>Brant Books</name>
+      <email>booksb@seattleu.edu</email>
+      <student_id>7410267</student_id>
+      <major_program>Economics</major_program>
+      <class_standing>Graduate</class_standing>
+      <position>Assistant Director</position>
+      <residence_hall>Campion Hall</residence_hall>
+    </data>
+    <data>
+      <name>Darla O'Brien</name>
+      <email>obriend@seattleu.edu</email>
+      <student_id>0019856</student_id>
+      <major_program>Accounting</major_program>
+      <class_standing>Graduate</class_standing>
+      <position>HOIDA</position>
+      <residence_hall>Campion Hall</residence_hall>
+    </data>
+    <data>
+      <name>Rainee Sheffield</name>
+      <email>sheffier@seattleu.edu</email>
+      <student_id>6983203</student_id>
+      <major_program>Nusing</major_program>
+      <class_standing>Senior</class_standing>
+      <position>Desk Coordinator</position>
+      <residence_hall>Campion Hall</residence_hall>
+    </data>
   </students>
