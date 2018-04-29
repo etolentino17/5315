@@ -48,7 +48,7 @@
     {
       "name": "Gabi See",
       "email": "seeg@seattleu.edu",
-      "student_id": "893710",
+      "student_id": "8923710",
       "major_program": "Sociology",
       "class_standing": "Sophomore",
       "position": "Desk Assistant",

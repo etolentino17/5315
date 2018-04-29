@@ -13,17 +13,18 @@
        var t = $('#chart').DataTable();
        $.ajax({
             type: "GET",
-            url: "empdata.xml", 
+            url: "hw2data.xml", 
             dataType: "xml",
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('email').text(),
+                $(this).find('student_id').text(),
+                $(this).find('major_program').text(),
+                $(this).find('class_standing').text(),
+                $(this).find('position').text()
+                $(this).find('residence_hall').text()
               ] ).draw( false );
              });
             }
@@ -37,22 +38,24 @@
     <thead>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Email</th>
+            <th>Student ID</th>
+            <th>Major/Program</th>
+            <th>CLass Standing</th>
+            <th>Position</th>
+            <th>Residence Hall</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Email</th>
+            <th>Student ID</th>
+            <th>Major/Program</th>
+            <th>CLass Standing</th>
+            <th>Position</th>
+            <th>Residence Hall</th>
         </tr>
     </tfoot>
   </table>

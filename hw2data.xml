@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <employees>
+    <data>
+      <name>Evin Tolentino</name>
+      <email>tolenti4@seattleu.edu</email>
+      <student_id>1234567</student_id>
+      <major_program>Business Analytics</major_program>
+      <class_standing>Graduate</class_standing>
+      <position>Assistant Area Coordinator</position>
+      <residence_hall>Chardin Hall</residence_hall>
+    </data>
+  </employees>
