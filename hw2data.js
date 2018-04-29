@@ -100,7 +100,7 @@
       "residence_hall": "Campion Hall"
     },
     {
-      "name": "Saide Radley",
+      "name": "Sadie Radley",
       "email": "radles@seattleu.edu",
       "student_id": "5470986",
       "major_program": "Business",
