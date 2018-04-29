@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <students>
     <data>
       <name>Evin Tolentino</name>
       <email>tolenti4@seattleu.edu</email>
@@ -9,4 +9,4 @@
       <position>Assistant Area Coordinator</position>
       <residence_hall>Chardin Hall</residence_hall>
     </data>
-  </employees>
+  </students>
